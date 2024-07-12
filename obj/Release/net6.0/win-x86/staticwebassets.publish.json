@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yUrHIsQDGGj8hIER3bmnZOtI8M5FXpF+L+3/6uJWU9c=",
+  "Source": "JWTRefreshTokenInDotNet6",
+  "BasePath": "_content/JWTRefreshTokenInDotNet6",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
